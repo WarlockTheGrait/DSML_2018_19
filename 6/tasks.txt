@@ -1,0 +1,4 @@
+Задания:
+
+Для SVM - https://archive.ics.uci.edu/ml/datasets/forest+fires
+Для бустинга - https://www.kaggle.com/c/sberbank-russian-housing-market/data
